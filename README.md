@@ -4,6 +4,6 @@ This is an android application created with kotlin, its functionality is numeric
 ## Screenshots
 <image align="center" width="300" src="./Screenshots/calculator.jpg">
 
-![Currency convertor](https://github.com/deepaksinghdsk/CalculatorAndCurrencyConvertor/blob/main/Screenshots/currency_convertor)  
+![Currency convertor](https://github.com/deepaksinghdsk/CalculatorAndCurrencyConvertor/blob/main/Screenshots/currency_convertor.jpg)  
 
-![Country Selector](https://github.com/deepaksinghdsk/CalculatorAndCurrencyConvertor/blob/main/Screenshots/country_selector)
+![Country Selector](https://github.com/deepaksinghdsk/CalculatorAndCurrencyConvertor/blob/main/Screenshots/country_selector.jpg)
