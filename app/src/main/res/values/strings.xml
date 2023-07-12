@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="tab_text_1">Converter</string>
+    <string name="tab_text_2">Calculator</string>
+    <string name="dataUpdateText">Data gets auto updated</string>
+</resources>
