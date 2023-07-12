@@ -6,4 +6,4 @@ This is an android application created with kotlin, its functionality is numeric
 
 <image align="center" width="300" src="./Screenshots/currency_convertor.jpg">
 
-<image align="right" width="300" src="./Screenshots/country_selector.jpg">
+<image align="center" width="300" src="./Screenshots/country_selector.jpg">
